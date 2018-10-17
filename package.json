@@ -1,0 +1,24 @@
+{
+  "name": "marvel",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "crypto-js": "~3.1.6",
+    "react": "^15.1.0",
+    "react-native": "^0.28.0",
+    "redux": "^2.0.0",
+    "react-redux": "~4.4.5",
+    "redux-logger": "~2.5.0",
+    "react-native-action-button": "~1.1.5",
+    "react-native-hyperlink": "~0.0.5",
+    "react-timer-mixin": "~0.13.3",
+    "realm": "~0.13.2",
+    "react-native-share": "~1.0.11"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.27.0"
+  }
+}
